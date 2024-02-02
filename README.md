@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Peter Andersson<img width="36" height="36" src="https://media.tenor.com/aMsGon6u7TcAAAAi/naruto-naruto-run.gif"/>
 ==================================================================================================================================
- <img width="100" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNtOTZuN2ZqeWV2NjJ4NGxhY2p0eWpxbGpwdnYyOTM2N2NzdWZ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif"/> 
+
  
 Frontend Developer & Fashion designer
 --------------------------------
