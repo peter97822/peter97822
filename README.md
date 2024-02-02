@@ -11,9 +11,7 @@ I'm very passionate about tech and everything to do with privacy and open source
 
 * 🤝  I'm open to collaborating on Open source projects
 
-<a href="https://www.x.com/ramiabdou_jw" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ramiabdou_jw?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+
 ### Skills
 
 <p align="left">
